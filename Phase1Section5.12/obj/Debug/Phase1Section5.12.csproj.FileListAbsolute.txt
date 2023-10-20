@@ -1,0 +1,7 @@
+M:\Phase-1 Assisted projects\Phase1Section5.12\Phase1Section5.12\bin\Debug\Phase1Section5.12.exe.config
+M:\Phase-1 Assisted projects\Phase1Section5.12\Phase1Section5.12\bin\Debug\Phase1Section5.12.exe
+M:\Phase-1 Assisted projects\Phase1Section5.12\Phase1Section5.12\bin\Debug\Phase1Section5.12.pdb
+M:\Phase-1 Assisted projects\Phase1Section5.12\Phase1Section5.12\obj\Debug\Phase1Section5.12.csproj.AssemblyReference.cache
+M:\Phase-1 Assisted projects\Phase1Section5.12\Phase1Section5.12\obj\Debug\Phase1Section5.12.csproj.CoreCompileInputs.cache
+M:\Phase-1 Assisted projects\Phase1Section5.12\Phase1Section5.12\obj\Debug\Phase1Section5.12.exe
+M:\Phase-1 Assisted projects\Phase1Section5.12\Phase1Section5.12\obj\Debug\Phase1Section5.12.pdb
